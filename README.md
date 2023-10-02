@@ -2,7 +2,7 @@
   <p align="center">
     Hey there, visitor, welcome!&nbsp;&nbsp;
     <img align="center"
-      src="https://github.com/douglastofoli/douglastofolijt/blob/main/assets/pikachu.png" 
+      src="https://github.com/douglastofolijt/douglastofolijt/blob/main/assets/pikachu.png" 
       height="80px"
       alt="Pikachu said welcome!"
     />
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://github.com/douglastofoli/douglastofolijt/blob/main/assets/functional.jpg"
+<img src="https://github.com/douglastofolijt/douglastofolijt/blob/main/assets/functional.jpg"
      alt="Functional way is the right way"
      height="305px"
      align="left" />
